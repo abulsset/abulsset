@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tess</h1>
 <h3 align="center">A student in Software Development at Mohawk College</h3>
 
-- 🔭 I’m currently working on **my 3rd semester (Software Quality & Testing, Programming in .NET, Server Side Web Programming, Object Oriented Systems, Database Theory)**
+- 🔭 I’m currently working on **my 4th semester**
 
 - 📫 How to reach me **tess.luba@mohawkcollege.ca**
 
