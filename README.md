@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tess</h1>
 <h3 align="center">A student in Software Development at Mohawk College</h3>
 
-- 🔭 I’m currently working on **my 4th semester**
+- 🔭 I’m currently working on **my 5th semester**
 
 - 📫 How to reach me **tess.luba@mohawkcollege.ca**
 
